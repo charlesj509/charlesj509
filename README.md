@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Charles 
-- 🌱 I’m currently learning python, I am having fun learning it
-- 💞️ I’m looking to collaborate on any kind of project to gain more experience and getting better 
-- 📫 How to reach me on twitter https://twitter.com/nullagravitatis
+- 🌱 I’m a software engineer interesting in C# and Python
+- 💞️ I’m looking to collaborate
+  
